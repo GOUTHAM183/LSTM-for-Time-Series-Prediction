@@ -23,9 +23,6 @@ The code includes:
 2. Download the `airline-passengers.csv` dataset and place it in the same directory as the script.
 3. Run the script to train the model and visualize the results.
 
-```bash
-python lstm_time_series.py
-```
 
 ## Results
 The results are visualized by plotting the actual time series data along with the model's predictions on both the training and testing sets, providing a clear view of the model's performance.
